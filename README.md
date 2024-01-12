@@ -35,14 +35,14 @@ I'm Dharma, Software Engineer living in Jakarta.
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### 📫 Let's Get in Touch  
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/dharma-saputra-2b6154a5/)](https://www.linkedin.com/in/dharma-saputra-2b6154a5/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mail.dharma.saputra@gmail.com)](mailto:mail.dharma.saputra@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/saputradharma)](https://www.linkedin.com/in/saputradharma/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:hi.saputradharma@gmail.com)](mailto:hi.saputradharma@gmail.com) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/4983242/dharma-saputra)](https://stackoverflow.com/users/4983242/dharma-saputra)
 
 
 ### 📈 Stats
 [![Dharmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=saputradharma&count_private=true&show_icons=true&hide_border=true&theme=swift)](https://github.com/saputradharma)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=saputradharma&theme=swift&hide_border=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=saputradharma&theme=swift&hide_border=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saputradharma&size_weight=0.5&count_weight=0.5&hide_border=true&theme=swift)
 
 
